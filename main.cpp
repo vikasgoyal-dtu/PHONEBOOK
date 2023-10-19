@@ -38,7 +38,7 @@ public:
         cout << "\n\t\t\t\t\t\t\t\t\tENTER SERIAL NUMBER:";
         cin >> sNo;
         if (serialValidator(sNo) == false)
-        {
+        { 
             cout << "\n\t\t\t\t\t\t\t\t\tINVALID SERIAL NUMBER ENTERED!";
             goto START;
         }
