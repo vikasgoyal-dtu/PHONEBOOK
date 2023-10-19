@@ -11,22 +11,24 @@
 <HR>
 <OL>
   <LI>
-    User first lands to menu to select if he is normal user or administrator.<BR>
-    On selecting administrator , we have to fill correct username and password then only we proceed to administrator operations through a loading screen.
+    User first lands on a menu to select if he is normal user or administrator.<BR>
+    On selecting administrator , he will have to fill correct username and password then only he can proceed to administrator operations through a loading screen.
     <BR>
     
   <img src="https://github.com/vikasgoyal-dtu/PHONEBOOK/assets/77005808/4cb32341-cb54-4b90-99a4-0d8dc24b9cc1" alt="IMAGE" width="600" height="400"><HR>
   </LI>
   <LI>
-In administrator section we can perform all the CRUD OPERATIONS(CREATE READ UPDATE DELETE) on data existing in the file.<BR>
-We can logout by selecting respective option in the menu.
+In administrator section he can perform all the CRUD OPERATIONS(CREATE READ UPDATE DELETE) on data existing in the file.<BR>
+He can logout by selecting respective option in the menu.
 <br>
+    
 <img src="https://github.com/vikasgoyal-dtu/PHONEBOOK/assets/77005808/9c1d49a0-d970-48ab-8b26-b8545dc53e27" alt="IMAGE" width="600" height="400"><hr>
   </LI>
   <LI>
-On selecting user, we get redirected to user functions menu where user can choose to display all the contacts or search a contact on the basis of phone number or serial number.<BR>
-If we exit user page, we are redirected to user administrator-menu.
+On selecting user, he gets redirected to user functions menu where he can choose to display all the contacts or search a contact on the basis of phone number or serial number.<BR>
+If he exits user page, he will be redirected to user-administrator menu.
     <BR>
+    
 <img src="https://github.com/vikasgoyal-dtu/PHONEBOOK/assets/77005808/b12c23fb-0227-478e-88e4-474168bf60ab" alt="IMAGE" width="600" height="400">
   </LI>
 </OL>
